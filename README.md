@@ -1,1 +1,1 @@
-# CookBookHub
+CookBookHub is a responsive web application built with React and Bootstrap that allows users to discover and explore various dishes. By integrating with the Edamam Recipe Search API, it provides an intuitive interface for searching meals based on keywords or ingredients, displaying results in elegant, image-rich cards. Ideal for culinary enthusiasts looking to expand their recipe collection.
